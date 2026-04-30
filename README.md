@@ -3,6 +3,7 @@
 > 轻量级校园考勤录入与管理平台，基于 PHP + MySQL，无前端框架依赖，开箱即用 🚀
 
 #### 📝 提交活动热力图
+
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TTSCNK&repo=KQ-Management-System&theme=github&area=true&hide_border=true)](https://github.com/TTSCNK/KQ-Management-System)
 
 ## ✨ 功能特性
